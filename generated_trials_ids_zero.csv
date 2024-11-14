@@ -1,0 +1,7 @@
+trial_id,object_motion_type,object_direction,object_speed,camera_motion_type,camera_direction,camera_speed,ramp_location,duration,initial_ball_placement,initial_crosshair_placement
+0,left_to_right,(-1 0),15.0,zero,(0 0),0,(-1 0),6.0,(0.81 0.5),(0.77 0.5)
+1,right_to_left,(1 0),15.0,zero,(0 0),0,(-1 0),6.0,(0.19 0.5),(0.23 0.5)
+2,left_to_right,(-1 0),30.0,zero,(0 0),0,(-1 0),4.0,(0.85 0.5),(0.77 0.5)
+3,right_to_left,(1 0),30.0,zero,(0 0),0,(-1 0),4.0,(0.15 0.5),(0.23 0.5)
+4,left_to_right,(-1 0),60.0,zero,(0 0),0,(-1 0),2.0,(0.92 0.5),(0.77 0.5)
+5,right_to_left,(1 0),60.0,zero,(0 0),0,(-1 0),2.0,(0.08 0.5),(0.23 0.5)
