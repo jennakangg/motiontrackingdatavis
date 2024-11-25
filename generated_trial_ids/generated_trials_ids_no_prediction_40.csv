@@ -1,0 +1,13 @@
+trial_id,object_motion_type,object_direction,object_speed,camera_motion_type,camera_direction,camera_speed,ramp_location,duration,initial_ball_placement,initial_crosshair_placement
+0,horizontal_left,(-1 0),40.0,horizontal_left,(-1 0),40.0,(-1 0),1,(0.5 0.5),(0.5 0.5)
+1,horizontal_left,(-1 0),40.0,horizontal_right,(1 0),40.0,(-1 0),1,(0.5 0.5),(0.5 0.5)
+2,horizontal_left,(-1 0),40.0,zero,(0 0),0,(-1 0),1,(0.5 0.5),(0.5 0.5)
+3,horizontal_right,(1 0),40.0,horizontal_left,(-1 0),40.0,(-1 0),1,(0.5 0.5),(0.5 0.5)
+4,horizontal_right,(1 0),40.0,horizontal_right,(1 0),40.0,(-1 0),1,(0.5 0.5),(0.5 0.5)
+5,horizontal_right,(1 0),40.0,zero,(0 0),0,(-1 0),1,(0.5 0.5),(0.5 0.5)
+6,down,(0 -1),40.0,up,(0 1),40.0,(-1 0),1,(0.5 0.5),(0.5 0.5)
+7,down,(0 -1),40.0,down,(0 -1),40.0,(-1 0),1,(0.5 0.5),(0.5 0.5)
+8,down,(0 -1),40.0,zero,(0 0),0,(-1 0),1,(0.5 0.5),(0.5 0.5)
+9,up,(0 1),40.0,up,(0 1),40.0,(-1 0),1,(0.5 0.5),(0.5 0.5)
+10,up,(0 1),40.0,down,(0 -1),40.0,(-1 0),1,(0.5 0.5),(0.5 0.5)
+11,up,(0 1),40.0,zero,(0 0),0,(-1 0),1,(0.5 0.5),(0.5 0.5)
