@@ -1,4 +1,0 @@
-trial_id,object_motion_type,object_direction,object_speed,camera_motion_type,camera_direction,camera_speed,ramp_location,duration,initial_ball_placement,initial_crosshair_placement
-0,left_to_right,(-1 0),60.0,horizontal_left,(-1 0),60.0,(-1 0),2.0,(0.91 0.5),(0.77 0.5)
-1,left_to_right,(-1 0),60.0,horizontal_right,(1 0),60.0,(-1 0),2.0,(0.91 0.5),(0.77 0.5)
-2,left_to_right,(-1 0),60.0,zero,(0 0),60.0,(-1 0),2.0,(0.91 0.5),(0.77 0.5)
