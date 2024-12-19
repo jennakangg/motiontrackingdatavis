@@ -1,0 +1,17 @@
+trial_id,object_motion_type,object_direction,object_speed,camera_motion_type,camera_direction,camera_speed,ramp_location,duration,initial_ball_placement,initial_crosshair_placement,contrast_threshold_multiplier
+0,horizontal_left,(-1 0),15.0,contrast,(-1 0),0,(-1 0),2,(0.53 0.5),(0.5 0.5),1.01
+1,horizontal_left,(-1 0),15.0,contrast,(-1 0),0,(-1 0),2,(0.53 0.5),(0.5 0.5),1.02
+2,horizontal_left,(-1 0),15.0,contrast,(-1 0),0,(-1 0),2,(0.53 0.5),(0.5 0.5),1.04
+3,horizontal_left,(-1 0),15.0,contrast,(-1 0),0,(-1 0),2,(0.53 0.5),(0.5 0.5),1.08
+4,horizontal_right,(1 0),15.0,contrast,(1 0),0,(-1 0),2,(0.47 0.5),(0.5 0.5),1.01
+5,horizontal_right,(1 0),15.0,contrast,(1 0),0,(-1 0),2,(0.47 0.5),(0.5 0.5),1.02
+6,horizontal_right,(1 0),15.0,contrast,(1 0),0,(-1 0),2,(0.47 0.5),(0.5 0.5),1.04
+7,horizontal_right,(1 0),15.0,contrast,(1 0),0,(-1 0),2,(0.47 0.5),(0.5 0.5),1.08
+8,horizontal_left,(-1 0),30.0,contrast,(-1 0),0,(-1 0),2,(0.57 0.5),(0.5 0.5),1.01
+9,horizontal_left,(-1 0),30.0,contrast,(-1 0),0,(-1 0),2,(0.57 0.5),(0.5 0.5),1.02
+10,horizontal_left,(-1 0),30.0,contrast,(-1 0),0,(-1 0),2,(0.57 0.5),(0.5 0.5),1.04
+11,horizontal_left,(-1 0),30.0,contrast,(-1 0),0,(-1 0),2,(0.57 0.5),(0.5 0.5),1.08
+12,horizontal_right,(1 0),30.0,contrast,(1 0),0,(-1 0),2,(0.43 0.5),(0.5 0.5),1.01
+13,horizontal_right,(1 0),30.0,contrast,(1 0),0,(-1 0),2,(0.43 0.5),(0.5 0.5),1.02
+14,horizontal_right,(1 0),30.0,contrast,(1 0),0,(-1 0),2,(0.43 0.5),(0.5 0.5),1.04
+15,horizontal_right,(1 0),30.0,contrast,(1 0),0,(-1 0),2,(0.43 0.5),(0.5 0.5),1.08
