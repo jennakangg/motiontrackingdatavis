@@ -21,8 +21,16 @@
                     0
                 ],
                 "camera_speed": 0,
-                "duration": 2,
-                "contrast_threshold_multiplier": 1.01
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 1,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
             },
             {
                 "object_motion": [
@@ -35,8 +43,16 @@
                     0
                 ],
                 "camera_speed": 0,
-                "duration": 2,
-                "contrast_threshold_multiplier": 1.01
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 1,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
             }
         ]
     },
@@ -62,8 +78,16 @@
                     0
                 ],
                 "camera_speed": 0,
-                "duration": 2,
-                "contrast_threshold_multiplier": 1.02
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 2,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
             },
             {
                 "object_motion": [
@@ -76,8 +100,16 @@
                     0
                 ],
                 "camera_speed": 0,
-                "duration": 2,
-                "contrast_threshold_multiplier": 1.02
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 2,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
             }
         ]
     },
@@ -103,8 +135,16 @@
                     0
                 ],
                 "camera_speed": 0,
-                "duration": 2,
-                "contrast_threshold_multiplier": 1.04
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 3,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
             },
             {
                 "object_motion": [
@@ -117,15 +157,23 @@
                     0
                 ],
                 "camera_speed": 0,
-                "duration": 2,
-                "contrast_threshold_multiplier": 1.04
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 3,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
             }
         ]
     },
     {
         "trial_id": 3,
         "initial_ball_placement": {
-            "x": 0.53,
+            "x": 0.47,
             "y": 0.5
         },
         "initial_crosshair_placement": {
@@ -135,7 +183,7 @@
         "segments": [
             {
                 "object_motion": [
-                    -1,
+                    1,
                     0
                 ],
                 "object_speed": 15.0,
@@ -144,12 +192,20 @@
                     0
                 ],
                 "camera_speed": 0,
-                "duration": 2,
-                "contrast_threshold_multiplier": 1.08
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 1,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
             },
             {
                 "object_motion": [
-                    -1,
+                    1,
                     0
                 ],
                 "object_speed": 30.0,
@@ -158,8 +214,16 @@
                     0
                 ],
                 "camera_speed": 0,
-                "duration": 2,
-                "contrast_threshold_multiplier": 1.08
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 1,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
             }
         ]
     },
@@ -185,8 +249,16 @@
                     0
                 ],
                 "camera_speed": 0,
-                "duration": 2,
-                "contrast_threshold_multiplier": 1.01
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 2,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
             },
             {
                 "object_motion": [
@@ -199,8 +271,16 @@
                     0
                 ],
                 "camera_speed": 0,
-                "duration": 2,
-                "contrast_threshold_multiplier": 1.01
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 2,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
             }
         ]
     },
@@ -226,8 +306,16 @@
                     0
                 ],
                 "camera_speed": 0,
-                "duration": 2,
-                "contrast_threshold_multiplier": 1.02
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 3,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
             },
             {
                 "object_motion": [
@@ -240,90 +328,16 @@
                     0
                 ],
                 "camera_speed": 0,
-                "duration": 2,
-                "contrast_threshold_multiplier": 1.02
-            }
-        ]
-    },
-    {
-        "trial_id": 6,
-        "initial_ball_placement": {
-            "x": 0.47,
-            "y": 0.5
-        },
-        "initial_crosshair_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "segments": [
-            {
-                "object_motion": [
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 3,
+                "contrast_direction": [
+                    0,
                     1,
                     0
-                ],
-                "object_speed": 15.0,
-                "camera_motion": [
-                    0,
-                    0
-                ],
-                "camera_speed": 0,
-                "duration": 2,
-                "contrast_threshold_multiplier": 1.04
-            },
-            {
-                "object_motion": [
-                    1,
-                    0
-                ],
-                "object_speed": 30.0,
-                "camera_motion": [
-                    0,
-                    0
-                ],
-                "camera_speed": 0,
-                "duration": 2,
-                "contrast_threshold_multiplier": 1.04
-            }
-        ]
-    },
-    {
-        "trial_id": 7,
-        "initial_ball_placement": {
-            "x": 0.47,
-            "y": 0.5
-        },
-        "initial_crosshair_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "segments": [
-            {
-                "object_motion": [
-                    1,
-                    0
-                ],
-                "object_speed": 15.0,
-                "camera_motion": [
-                    0,
-                    0
-                ],
-                "camera_speed": 0,
-                "duration": 2,
-                "contrast_threshold_multiplier": 1.08
-            },
-            {
-                "object_motion": [
-                    1,
-                    0
-                ],
-                "object_speed": 30.0,
-                "camera_motion": [
-                    0,
-                    0
-                ],
-                "camera_speed": 0,
-                "duration": 2,
-                "contrast_threshold_multiplier": 1.08
+                ]
             }
         ]
     }
