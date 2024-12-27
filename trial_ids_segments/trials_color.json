@@ -2,6 +2,286 @@
     {
         "trial_id": 0,
         "initial_ball_placement": {
+            "x": 0.52,
+            "y": 0.5
+        },
+        "initial_crosshair_placement": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "segments": [
+            {
+                "object_motion": [
+                    -1,
+                    0
+                ],
+                "object_speed": 8.0,
+                "camera_motion": [
+                    0,
+                    0
+                ],
+                "camera_speed": 0,
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 1.4,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "trial_id": 1,
+        "initial_ball_placement": {
+            "x": 0.52,
+            "y": 0.5
+        },
+        "initial_crosshair_placement": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "segments": [
+            {
+                "object_motion": [
+                    -1,
+                    0
+                ],
+                "object_speed": 8.0,
+                "camera_motion": [
+                    0,
+                    0
+                ],
+                "camera_speed": 0,
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 2.8,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "trial_id": 2,
+        "initial_ball_placement": {
+            "x": 0.52,
+            "y": 0.5
+        },
+        "initial_crosshair_placement": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "segments": [
+            {
+                "object_motion": [
+                    -1,
+                    0
+                ],
+                "object_speed": 8.0,
+                "camera_motion": [
+                    0,
+                    0
+                ],
+                "camera_speed": 0,
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 5.6,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "trial_id": 3,
+        "initial_ball_placement": {
+            "x": 0.52,
+            "y": 0.5
+        },
+        "initial_crosshair_placement": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "segments": [
+            {
+                "object_motion": [
+                    -1,
+                    0
+                ],
+                "object_speed": 8.0,
+                "camera_motion": [
+                    0,
+                    0
+                ],
+                "camera_speed": 0,
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 11.2,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "trial_id": 4,
+        "initial_ball_placement": {
+            "x": 0.48,
+            "y": 0.5
+        },
+        "initial_crosshair_placement": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "segments": [
+            {
+                "object_motion": [
+                    1,
+                    0
+                ],
+                "object_speed": 8.0,
+                "camera_motion": [
+                    0,
+                    0
+                ],
+                "camera_speed": 0,
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 1.4,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "trial_id": 5,
+        "initial_ball_placement": {
+            "x": 0.48,
+            "y": 0.5
+        },
+        "initial_crosshair_placement": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "segments": [
+            {
+                "object_motion": [
+                    1,
+                    0
+                ],
+                "object_speed": 8.0,
+                "camera_motion": [
+                    0,
+                    0
+                ],
+                "camera_speed": 0,
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 2.8,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "trial_id": 6,
+        "initial_ball_placement": {
+            "x": 0.48,
+            "y": 0.5
+        },
+        "initial_crosshair_placement": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "segments": [
+            {
+                "object_motion": [
+                    1,
+                    0
+                ],
+                "object_speed": 8.0,
+                "camera_motion": [
+                    0,
+                    0
+                ],
+                "camera_speed": 0,
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 5.6,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "trial_id": 7,
+        "initial_ball_placement": {
+            "x": 0.48,
+            "y": 0.5
+        },
+        "initial_crosshair_placement": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "segments": [
+            {
+                "object_motion": [
+                    1,
+                    0
+                ],
+                "object_speed": 8.0,
+                "camera_motion": [
+                    0,
+                    0
+                ],
+                "camera_speed": 0,
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 11.2,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "trial_id": 8,
+        "initial_ball_placement": {
             "x": 0.53,
             "y": 0.5
         },
@@ -25,29 +305,7 @@
                     1.5,
                     2
                 ],
-                "contrast_intensity": 5,
-                "contrast_direction": [
-                    0,
-                    1,
-                    0
-                ]
-            },
-            {
-                "object_motion": [
-                    -1,
-                    0
-                ],
-                "object_speed": 30.0,
-                "camera_motion": [
-                    0,
-                    0
-                ],
-                "camera_speed": 0,
-                "duration": [
-                    1.5,
-                    2
-                ],
-                "contrast_intensity": 5,
+                "contrast_intensity": 1.4,
                 "contrast_direction": [
                     0,
                     1,
@@ -57,7 +315,112 @@
         ]
     },
     {
-        "trial_id": 1,
+        "trial_id": 9,
+        "initial_ball_placement": {
+            "x": 0.53,
+            "y": 0.5
+        },
+        "initial_crosshair_placement": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "segments": [
+            {
+                "object_motion": [
+                    -1,
+                    0
+                ],
+                "object_speed": 15.0,
+                "camera_motion": [
+                    0,
+                    0
+                ],
+                "camera_speed": 0,
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 2.8,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "trial_id": 10,
+        "initial_ball_placement": {
+            "x": 0.53,
+            "y": 0.5
+        },
+        "initial_crosshair_placement": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "segments": [
+            {
+                "object_motion": [
+                    -1,
+                    0
+                ],
+                "object_speed": 15.0,
+                "camera_motion": [
+                    0,
+                    0
+                ],
+                "camera_speed": 0,
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 5.6,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "trial_id": 11,
+        "initial_ball_placement": {
+            "x": 0.53,
+            "y": 0.5
+        },
+        "initial_crosshair_placement": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "segments": [
+            {
+                "object_motion": [
+                    -1,
+                    0
+                ],
+                "object_speed": 15.0,
+                "camera_motion": [
+                    0,
+                    0
+                ],
+                "camera_speed": 0,
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 11.2,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "trial_id": 12,
         "initial_ball_placement": {
             "x": 0.47,
             "y": 0.5
@@ -82,13 +445,271 @@
                     1.5,
                     2
                 ],
-                "contrast_intensity": 5,
+                "contrast_intensity": 1.4,
                 "contrast_direction": [
                     0,
                     1,
                     0
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "trial_id": 13,
+        "initial_ball_placement": {
+            "x": 0.47,
+            "y": 0.5
+        },
+        "initial_crosshair_placement": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "segments": [
+            {
+                "object_motion": [
+                    1,
+                    0
+                ],
+                "object_speed": 15.0,
+                "camera_motion": [
+                    0,
+                    0
+                ],
+                "camera_speed": 0,
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 2.8,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "trial_id": 14,
+        "initial_ball_placement": {
+            "x": 0.47,
+            "y": 0.5
+        },
+        "initial_crosshair_placement": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "segments": [
+            {
+                "object_motion": [
+                    1,
+                    0
+                ],
+                "object_speed": 15.0,
+                "camera_motion": [
+                    0,
+                    0
+                ],
+                "camera_speed": 0,
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 5.6,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "trial_id": 15,
+        "initial_ball_placement": {
+            "x": 0.47,
+            "y": 0.5
+        },
+        "initial_crosshair_placement": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "segments": [
+            {
+                "object_motion": [
+                    1,
+                    0
+                ],
+                "object_speed": 15.0,
+                "camera_motion": [
+                    0,
+                    0
+                ],
+                "camera_speed": 0,
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 11.2,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "trial_id": 16,
+        "initial_ball_placement": {
+            "x": 0.57,
+            "y": 0.5
+        },
+        "initial_crosshair_placement": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "segments": [
+            {
+                "object_motion": [
+                    -1,
+                    0
+                ],
+                "object_speed": 30.0,
+                "camera_motion": [
+                    0,
+                    0
+                ],
+                "camera_speed": 0,
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 1.4,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "trial_id": 17,
+        "initial_ball_placement": {
+            "x": 0.57,
+            "y": 0.5
+        },
+        "initial_crosshair_placement": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "segments": [
+            {
+                "object_motion": [
+                    -1,
+                    0
+                ],
+                "object_speed": 30.0,
+                "camera_motion": [
+                    0,
+                    0
+                ],
+                "camera_speed": 0,
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 2.8,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "trial_id": 18,
+        "initial_ball_placement": {
+            "x": 0.57,
+            "y": 0.5
+        },
+        "initial_crosshair_placement": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "segments": [
+            {
+                "object_motion": [
+                    -1,
+                    0
+                ],
+                "object_speed": 30.0,
+                "camera_motion": [
+                    0,
+                    0
+                ],
+                "camera_speed": 0,
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 5.6,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "trial_id": 19,
+        "initial_ball_placement": {
+            "x": 0.57,
+            "y": 0.5
+        },
+        "initial_crosshair_placement": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "segments": [
+            {
+                "object_motion": [
+                    -1,
+                    0
+                ],
+                "object_speed": 30.0,
+                "camera_motion": [
+                    0,
+                    0
+                ],
+                "camera_speed": 0,
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 11.2,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "trial_id": 20,
+        "initial_ball_placement": {
+            "x": 0.43,
+            "y": 0.5
+        },
+        "initial_crosshair_placement": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "segments": [
             {
                 "object_motion": [
                     1,
@@ -104,7 +725,112 @@
                     1.5,
                     2
                 ],
-                "contrast_intensity": 5,
+                "contrast_intensity": 1.4,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "trial_id": 21,
+        "initial_ball_placement": {
+            "x": 0.43,
+            "y": 0.5
+        },
+        "initial_crosshair_placement": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "segments": [
+            {
+                "object_motion": [
+                    1,
+                    0
+                ],
+                "object_speed": 30.0,
+                "camera_motion": [
+                    0,
+                    0
+                ],
+                "camera_speed": 0,
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 2.8,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "trial_id": 22,
+        "initial_ball_placement": {
+            "x": 0.43,
+            "y": 0.5
+        },
+        "initial_crosshair_placement": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "segments": [
+            {
+                "object_motion": [
+                    1,
+                    0
+                ],
+                "object_speed": 30.0,
+                "camera_motion": [
+                    0,
+                    0
+                ],
+                "camera_speed": 0,
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 5.6,
+                "contrast_direction": [
+                    0,
+                    1,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "trial_id": 23,
+        "initial_ball_placement": {
+            "x": 0.43,
+            "y": 0.5
+        },
+        "initial_crosshair_placement": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "segments": [
+            {
+                "object_motion": [
+                    1,
+                    0
+                ],
+                "object_speed": 30.0,
+                "camera_motion": [
+                    0,
+                    0
+                ],
+                "camera_speed": 0,
+                "duration": [
+                    1.5,
+                    2
+                ],
+                "contrast_intensity": 11.2,
                 "contrast_direction": [
                     0,
                     1,
