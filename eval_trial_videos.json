@@ -1,0 +1,18 @@
+[
+     {
+          "trial_id": 1,
+          "video_path": "fps_clip_1_clip.mp4",
+          "initial_crosshair_placement": {
+               "x": 0.5,
+               "y": 0.5
+          }
+     },
+     {
+          "trial_id": 2,
+          "video_path": "dog_running.mp4",
+          "initial_crosshair_placement": {
+               "x": 0.5,
+               "y": 0.5
+          }
+     }
+]
