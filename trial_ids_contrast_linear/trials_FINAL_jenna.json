@@ -25,7 +25,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_threshold_multiplier": 1.0166
+                "contrast_threshold_multiplier": 1.04
             }
         ]
     },
@@ -55,7 +55,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_threshold_multiplier": 1.0332
+                "contrast_threshold_multiplier": 1.08
             }
         ]
     },
@@ -85,7 +85,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_threshold_multiplier": 1.0664
+                "contrast_threshold_multiplier": 1.16
             }
         ]
     },
@@ -115,7 +115,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_threshold_multiplier": 1.1328
+                "contrast_threshold_multiplier": 1.32
             }
         ]
     },
@@ -145,7 +145,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_threshold_multiplier": 1.0166
+                "contrast_threshold_multiplier": 1.04
             }
         ]
     },
@@ -175,7 +175,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_threshold_multiplier": 1.0332
+                "contrast_threshold_multiplier": 1.08
             }
         ]
     },
@@ -205,7 +205,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_threshold_multiplier": 1.0664
+                "contrast_threshold_multiplier": 1.16
             }
         ]
     },
@@ -235,7 +235,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_threshold_multiplier": 1.1328
+                "contrast_threshold_multiplier": 1.32
             }
         ]
     },
@@ -265,7 +265,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_threshold_multiplier": 1.0166
+                "contrast_threshold_multiplier": 1.04
             }
         ]
     },
@@ -295,7 +295,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_threshold_multiplier": 1.0332
+                "contrast_threshold_multiplier": 1.08
             }
         ]
     },
@@ -325,7 +325,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_threshold_multiplier": 1.0664
+                "contrast_threshold_multiplier": 1.16
             }
         ]
     },
@@ -355,7 +355,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_threshold_multiplier": 1.1328
+                "contrast_threshold_multiplier": 1.32
             }
         ]
     },
@@ -385,7 +385,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_threshold_multiplier": 1.0166
+                "contrast_threshold_multiplier": 1.04
             }
         ]
     },
@@ -415,7 +415,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_threshold_multiplier": 1.0332
+                "contrast_threshold_multiplier": 1.08
             }
         ]
     },
@@ -445,7 +445,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_threshold_multiplier": 1.0664
+                "contrast_threshold_multiplier": 1.16
             }
         ]
     },
@@ -475,7 +475,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_threshold_multiplier": 1.1328
+                "contrast_threshold_multiplier": 1.32
             }
         ]
     },
@@ -505,7 +505,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_threshold_multiplier": 1.0166
+                "contrast_threshold_multiplier": 1.04
             }
         ]
     },
@@ -535,7 +535,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_threshold_multiplier": 1.0332
+                "contrast_threshold_multiplier": 1.08
             }
         ]
     },
@@ -565,7 +565,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_threshold_multiplier": 1.0664
+                "contrast_threshold_multiplier": 1.16
             }
         ]
     },
@@ -595,7 +595,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_threshold_multiplier": 1.1328
+                "contrast_threshold_multiplier": 1.32
             }
         ]
     },
@@ -625,7 +625,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_threshold_multiplier": 1.0166
+                "contrast_threshold_multiplier": 1.04
             }
         ]
     },
@@ -655,7 +655,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_threshold_multiplier": 1.0332
+                "contrast_threshold_multiplier": 1.08
             }
         ]
     },
@@ -685,7 +685,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_threshold_multiplier": 1.0664
+                "contrast_threshold_multiplier": 1.16
             }
         ]
     },
@@ -715,7 +715,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_threshold_multiplier": 1.1328
+                "contrast_threshold_multiplier": 1.32
             }
         ]
     }
