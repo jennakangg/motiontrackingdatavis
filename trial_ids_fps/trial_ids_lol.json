@@ -10,9 +10,16 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": 0.5,
-            "y": 0.5
+            "x": -4.393,
+            "y": 1.456,
+            "z": -0.303
         },
+        "initial_camera_rotation": {
+            "x": 346.7,
+            "y": 133.996,
+            "z": 0.0
+        },
+        "camera_forward_velocity": 5,
         "segments": [
             {
                 "object_motion": [
@@ -44,9 +51,16 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": 0.5,
-            "y": 0.5
+            "x": 15.453,
+            "y": 1.453,
+            "z": 10.171
         },
+        "initial_camera_rotation": {
+            "x": 328.7,
+            "y": 325.309,
+            "z": 0.0
+        },
+        "camera_forward_velocity": 15,
         "segments": [
             {
                 "object_motion": [
@@ -78,9 +92,16 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": 0.5,
-            "y": 0.5
+            "x": -4.393,
+            "y": 1.456,
+            "z": -0.303
         },
+        "initial_camera_rotation": {
+            "x": 346.7,
+            "y": 133.996,
+            "z": 0.0
+        },
+        "camera_forward_velocity": 10,
         "segments": [
             {
                 "object_motion": [
@@ -112,9 +133,16 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": 0.5,
-            "y": 0.5
+            "x": -4.393,
+            "y": 1.456,
+            "z": -0.303
         },
+        "initial_camera_rotation": {
+            "x": 346.7,
+            "y": 133.996,
+            "z": 0.0
+        },
+        "camera_forward_velocity": 5,
         "segments": [
             {
                 "object_motion": [
@@ -146,9 +174,16 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": 0.5,
-            "y": 0.5
+            "x": 0.832,
+            "y": 1.453,
+            "z": 4.017
         },
+        "initial_camera_rotation": {
+            "x": 339.4,
+            "y": 23.586,
+            "z": 0.0
+        },
+        "camera_forward_velocity": 15,
         "segments": [
             {
                 "object_motion": [
@@ -180,9 +215,16 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": 0.5,
-            "y": 0.5
+            "x": 15.453,
+            "y": 1.453,
+            "z": 10.171
         },
+        "initial_camera_rotation": {
+            "x": 328.7,
+            "y": 325.309,
+            "z": 0.0
+        },
+        "camera_forward_velocity": 15,
         "segments": [
             {
                 "object_motion": [
@@ -214,9 +256,16 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": 0.5,
-            "y": 0.5
+            "x": -4.393,
+            "y": 1.456,
+            "z": -0.303
         },
+        "initial_camera_rotation": {
+            "x": 346.7,
+            "y": 133.996,
+            "z": 0.0
+        },
+        "camera_forward_velocity": 5,
         "segments": [
             {
                 "object_motion": [
@@ -248,9 +297,16 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": 0.5,
-            "y": 0.5
+            "x": 15.453,
+            "y": 1.453,
+            "z": 10.171
         },
+        "initial_camera_rotation": {
+            "x": 328.7,
+            "y": 325.309,
+            "z": 0.0
+        },
+        "camera_forward_velocity": 15,
         "segments": [
             {
                 "object_motion": [
@@ -282,9 +338,16 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": 0.5,
-            "y": 0.5
+            "x": -4.393,
+            "y": 1.456,
+            "z": -0.303
         },
+        "initial_camera_rotation": {
+            "x": 346.7,
+            "y": 133.996,
+            "z": 0.0
+        },
+        "camera_forward_velocity": 10,
         "segments": [
             {
                 "object_motion": [
@@ -316,9 +379,16 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": 0.5,
-            "y": 0.5
+            "x": -4.393,
+            "y": 1.456,
+            "z": -0.303
         },
+        "initial_camera_rotation": {
+            "x": 346.7,
+            "y": 133.996,
+            "z": 0.0
+        },
+        "camera_forward_velocity": 10,
         "segments": [
             {
                 "object_motion": [
@@ -350,9 +420,16 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": 0.5,
-            "y": 0.5
+            "x": -4.393,
+            "y": 1.456,
+            "z": -0.303
         },
+        "initial_camera_rotation": {
+            "x": 346.7,
+            "y": 133.996,
+            "z": 0.0
+        },
+        "camera_forward_velocity": 10,
         "segments": [
             {
                 "object_motion": [
@@ -384,9 +461,16 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": 0.5,
-            "y": 0.5
+            "x": -4.393,
+            "y": 1.456,
+            "z": -0.303
         },
+        "initial_camera_rotation": {
+            "x": 346.7,
+            "y": 133.996,
+            "z": 0.0
+        },
+        "camera_forward_velocity": 15,
         "segments": [
             {
                 "object_motion": [
@@ -418,9 +502,16 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": 0.5,
-            "y": 0.5
+            "x": -4.393,
+            "y": 1.456,
+            "z": -0.303
         },
+        "initial_camera_rotation": {
+            "x": 346.7,
+            "y": 133.996,
+            "z": 0.0
+        },
+        "camera_forward_velocity": 15,
         "segments": [
             {
                 "object_motion": [
@@ -452,9 +543,16 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": 0.5,
-            "y": 0.5
+            "x": 15.453,
+            "y": 1.453,
+            "z": 10.171
         },
+        "initial_camera_rotation": {
+            "x": 328.7,
+            "y": 325.309,
+            "z": 0.0
+        },
+        "camera_forward_velocity": 5,
         "segments": [
             {
                 "object_motion": [
@@ -486,9 +584,16 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": 0.5,
-            "y": 0.5
+            "x": 15.453,
+            "y": 1.453,
+            "z": 10.171
         },
+        "initial_camera_rotation": {
+            "x": 328.7,
+            "y": 325.309,
+            "z": 0.0
+        },
+        "camera_forward_velocity": 5,
         "segments": [
             {
                 "object_motion": [
@@ -520,9 +625,16 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": 0.5,
-            "y": 0.5
+            "x": 15.453,
+            "y": 1.453,
+            "z": 10.171
         },
+        "initial_camera_rotation": {
+            "x": 328.7,
+            "y": 325.309,
+            "z": 0.0
+        },
+        "camera_forward_velocity": 5,
         "segments": [
             {
                 "object_motion": [
@@ -554,9 +666,16 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": 0.5,
-            "y": 0.5
+            "x": 0.832,
+            "y": 1.453,
+            "z": 4.017
         },
+        "initial_camera_rotation": {
+            "x": 339.4,
+            "y": 23.586,
+            "z": 0.0
+        },
+        "camera_forward_velocity": 10,
         "segments": [
             {
                 "object_motion": [
@@ -588,9 +707,16 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": 0.5,
-            "y": 0.5
+            "x": 15.453,
+            "y": 1.453,
+            "z": 10.171
         },
+        "initial_camera_rotation": {
+            "x": 328.7,
+            "y": 325.309,
+            "z": 0.0
+        },
+        "camera_forward_velocity": 15,
         "segments": [
             {
                 "object_motion": [
@@ -622,9 +748,16 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": 0.5,
-            "y": 0.5
+            "x": 0.832,
+            "y": 1.453,
+            "z": 4.017
         },
+        "initial_camera_rotation": {
+            "x": 339.4,
+            "y": 23.586,
+            "z": 0.0
+        },
+        "camera_forward_velocity": 10,
         "segments": [
             {
                 "object_motion": [
@@ -656,9 +789,16 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": 0.5,
-            "y": 0.5
+            "x": 15.453,
+            "y": 1.453,
+            "z": 10.171
         },
+        "initial_camera_rotation": {
+            "x": 328.7,
+            "y": 325.309,
+            "z": 0.0
+        },
+        "camera_forward_velocity": 10,
         "segments": [
             {
                 "object_motion": [
@@ -690,9 +830,16 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": 0.5,
-            "y": 0.5
+            "x": -4.393,
+            "y": 1.456,
+            "z": -0.303
         },
+        "initial_camera_rotation": {
+            "x": 346.7,
+            "y": 133.996,
+            "z": 0.0
+        },
+        "camera_forward_velocity": 5,
         "segments": [
             {
                 "object_motion": [
@@ -724,9 +871,16 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": 0.5,
-            "y": 0.5
+            "x": 0.832,
+            "y": 1.453,
+            "z": 4.017
         },
+        "initial_camera_rotation": {
+            "x": 339.4,
+            "y": 23.586,
+            "z": 0.0
+        },
+        "camera_forward_velocity": 15,
         "segments": [
             {
                 "object_motion": [
@@ -758,9 +912,16 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": 0.5,
-            "y": 0.5
+            "x": 15.453,
+            "y": 1.453,
+            "z": 10.171
         },
+        "initial_camera_rotation": {
+            "x": 328.7,
+            "y": 325.309,
+            "z": 0.0
+        },
+        "camera_forward_velocity": 10,
         "segments": [
             {
                 "object_motion": [
@@ -792,9 +953,16 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": 0.5,
-            "y": 0.5
+            "x": 15.453,
+            "y": 1.453,
+            "z": 10.171
         },
+        "initial_camera_rotation": {
+            "x": 328.7,
+            "y": 325.309,
+            "z": 0.0
+        },
+        "camera_forward_velocity": 10,
         "segments": [
             {
                 "object_motion": [
