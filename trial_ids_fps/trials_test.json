@@ -19,14 +19,14 @@
             "y": 133.996,
             "z": 0.0
         },
-        "camera_forward_velocity": 4,
+        "camera_forward_velocity": 6,
         "segments": [
             {
                 "object_motion": [
                     -1,
                     0
                 ],
-                "object_speed": 7.5,
+                "object_speed": 30.0,
                 "camera_motion": [
                     0,
                     0
@@ -36,7 +36,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_intensity": 1.0428571428571434
+                "contrast_intensity": 0.08
             }
         ]
     },
@@ -51,23 +51,23 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": -4.393,
-            "y": 1.456,
-            "z": -0.303
+            "x": -1.612,
+            "y": 1.453,
+            "z": -1.525
         },
         "initial_camera_rotation": {
-            "x": 346.7,
-            "y": 133.996,
+            "x": 331.1,
+            "y": 114.713,
             "z": 0.0
         },
-        "camera_forward_velocity": 2,
+        "camera_forward_velocity": 6,
         "segments": [
             {
                 "object_motion": [
                     -1,
                     0
                 ],
-                "object_speed": 7.5,
+                "object_speed": 30.0,
                 "camera_motion": [
                     0,
                     0
@@ -77,7 +77,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_intensity": 1.085714285714287
+                "contrast_intensity": 0.08
             }
         ]
     },
@@ -92,13 +92,13 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": -4.393,
-            "y": 1.456,
-            "z": -0.303
+            "x": 1.647,
+            "y": 1.453,
+            "z": -12.028
         },
         "initial_camera_rotation": {
-            "x": 346.7,
-            "y": 133.996,
+            "x": 331.6,
+            "y": 254.137,
             "z": 0.0
         },
         "camera_forward_velocity": 6,
@@ -108,7 +108,7 @@
                     -1,
                     0
                 ],
-                "object_speed": 7.5,
+                "object_speed": 30.0,
                 "camera_motion": [
                     0,
                     0
@@ -118,7 +118,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_intensity": 1.171428571428574
+                "contrast_intensity": 0.08
             }
         ]
     },
@@ -133,13 +133,13 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": -4.393,
-            "y": 1.456,
-            "z": -0.303
+            "x": 0.742,
+            "y": 1.453,
+            "z": -11.745
         },
         "initial_camera_rotation": {
-            "x": 346.7,
-            "y": 133.996,
+            "x": 329.2,
+            "y": 251.072,
             "z": 0.0
         },
         "camera_forward_velocity": 6,
@@ -149,7 +149,7 @@
                     -1,
                     0
                 ],
-                "object_speed": 7.5,
+                "object_speed": 30.0,
                 "camera_motion": [
                     0,
                     0
@@ -159,7 +159,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_intensity": 1.3428571428571479
+                "contrast_intensity": 0.08
             }
         ]
     },
@@ -174,23 +174,23 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": -4.393,
-            "y": 1.456,
-            "z": -0.303
+            "x": 7.231,
+            "y": 1.453,
+            "z": -10.851
         },
         "initial_camera_rotation": {
-            "x": 346.7,
-            "y": 133.996,
+            "x": 323.7,
+            "y": 67.164,
             "z": 0.0
         },
-        "camera_forward_velocity": 2,
+        "camera_forward_velocity": 6,
         "segments": [
             {
                 "object_motion": [
-                    1,
+                    -1,
                     0
                 ],
-                "object_speed": 7.5,
+                "object_speed": 30.0,
                 "camera_motion": [
                     0,
                     0
@@ -200,7 +200,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_intensity": 1.0428571428571434
+                "contrast_intensity": 0.08
             }
         ]
     },
@@ -215,23 +215,23 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": -4.393,
-            "y": 1.456,
-            "z": -0.303
+            "x": 7.666,
+            "y": 1.453,
+            "z": 4.893
         },
         "initial_camera_rotation": {
-            "x": 346.7,
-            "y": 133.996,
+            "x": 332.7,
+            "y": 325.203,
             "z": 0.0
         },
         "camera_forward_velocity": 6,
         "segments": [
             {
                 "object_motion": [
-                    1,
+                    -1,
                     0
                 ],
-                "object_speed": 7.5,
+                "object_speed": 30.0,
                 "camera_motion": [
                     0,
                     0
@@ -241,7 +241,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_intensity": 1.085714285714287
+                "contrast_intensity": 0.08
             }
         ]
     },
@@ -265,14 +265,14 @@
             "y": 133.996,
             "z": 0.0
         },
-        "camera_forward_velocity": 4,
+        "camera_forward_velocity": 6,
         "segments": [
             {
                 "object_motion": [
                     1,
                     0
                 ],
-                "object_speed": 7.5,
+                "object_speed": 30.0,
                 "camera_motion": [
                     0,
                     0
@@ -282,7 +282,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_intensity": 1.171428571428574
+                "contrast_intensity": 0.08
             }
         ]
     },
@@ -297,13 +297,13 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": -4.393,
-            "y": 1.456,
-            "z": -0.303
+            "x": -1.612,
+            "y": 1.453,
+            "z": -1.525
         },
         "initial_camera_rotation": {
-            "x": 346.7,
-            "y": 133.996,
+            "x": 331.1,
+            "y": 114.713,
             "z": 0.0
         },
         "camera_forward_velocity": 6,
@@ -313,7 +313,7 @@
                     1,
                     0
                 ],
-                "object_speed": 7.5,
+                "object_speed": 30.0,
                 "camera_motion": [
                     0,
                     0
@@ -323,7 +323,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_intensity": 1.3428571428571479
+                "contrast_intensity": 0.08
             }
         ]
     },
@@ -338,23 +338,23 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": -4.393,
-            "y": 1.456,
-            "z": -0.303
+            "x": 1.647,
+            "y": 1.453,
+            "z": -12.028
         },
         "initial_camera_rotation": {
-            "x": 346.7,
-            "y": 133.996,
+            "x": 331.6,
+            "y": 254.137,
             "z": 0.0
         },
-        "camera_forward_velocity": 2,
+        "camera_forward_velocity": 6,
         "segments": [
             {
                 "object_motion": [
-                    -1,
+                    1,
                     0
                 ],
-                "object_speed": 15.0,
+                "object_speed": 30.0,
                 "camera_motion": [
                     0,
                     0
@@ -364,7 +364,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_intensity": 1.0428571428571434
+                "contrast_intensity": 0.08
             }
         ]
     },
@@ -379,23 +379,23 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": -4.393,
-            "y": 1.456,
-            "z": -0.303
+            "x": 0.742,
+            "y": 1.453,
+            "z": -11.745
         },
         "initial_camera_rotation": {
-            "x": 346.7,
-            "y": 133.996,
+            "x": 329.2,
+            "y": 251.072,
             "z": 0.0
         },
-        "camera_forward_velocity": 4,
+        "camera_forward_velocity": 6,
         "segments": [
             {
                 "object_motion": [
-                    -1,
+                    1,
                     0
                 ],
-                "object_speed": 15.0,
+                "object_speed": 30.0,
                 "camera_motion": [
                     0,
                     0
@@ -405,7 +405,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_intensity": 1.085714285714287
+                "contrast_intensity": 0.08
             }
         ]
     },
@@ -420,23 +420,23 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": -4.393,
-            "y": 1.456,
-            "z": -0.303
+            "x": 7.231,
+            "y": 1.453,
+            "z": -10.851
         },
         "initial_camera_rotation": {
-            "x": 346.7,
-            "y": 133.996,
+            "x": 323.7,
+            "y": 67.164,
             "z": 0.0
         },
         "camera_forward_velocity": 6,
         "segments": [
             {
                 "object_motion": [
-                    -1,
+                    1,
                     0
                 ],
-                "object_speed": 15.0,
+                "object_speed": 30.0,
                 "camera_motion": [
                     0,
                     0
@@ -446,7 +446,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_intensity": 1.171428571428574
+                "contrast_intensity": 0.08
             }
         ]
     },
@@ -461,388 +461,19 @@
             "y": 0.5
         },
         "initial_camera_position": {
-            "x": -4.393,
-            "y": 1.456,
-            "z": -0.303
+            "x": 7.666,
+            "y": 1.453,
+            "z": 4.893
         },
         "initial_camera_rotation": {
-            "x": 346.7,
-            "y": 133.996,
-            "z": 0.0
-        },
-        "camera_forward_velocity": 2,
-        "segments": [
-            {
-                "object_motion": [
-                    -1,
-                    0
-                ],
-                "object_speed": 15.0,
-                "camera_motion": [
-                    0,
-                    0
-                ],
-                "camera_speed": 0,
-                "duration": [
-                    1.0,
-                    1.5
-                ],
-                "contrast_intensity": 1.3428571428571479
-            }
-        ]
-    },
-    {
-        "trial_id": 12,
-        "initial_ball_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "initial_crosshair_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "initial_camera_position": {
-            "x": -4.393,
-            "y": 1.456,
-            "z": -0.303
-        },
-        "initial_camera_rotation": {
-            "x": 346.7,
-            "y": 133.996,
-            "z": 0.0
-        },
-        "camera_forward_velocity": 4,
-        "segments": [
-            {
-                "object_motion": [
-                    1,
-                    0
-                ],
-                "object_speed": 15.0,
-                "camera_motion": [
-                    0,
-                    0
-                ],
-                "camera_speed": 0,
-                "duration": [
-                    1.0,
-                    1.5
-                ],
-                "contrast_intensity": 1.0428571428571434
-            }
-        ]
-    },
-    {
-        "trial_id": 13,
-        "initial_ball_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "initial_crosshair_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "initial_camera_position": {
-            "x": -4.393,
-            "y": 1.456,
-            "z": -0.303
-        },
-        "initial_camera_rotation": {
-            "x": 346.7,
-            "y": 133.996,
-            "z": 0.0
-        },
-        "camera_forward_velocity": 2,
-        "segments": [
-            {
-                "object_motion": [
-                    1,
-                    0
-                ],
-                "object_speed": 15.0,
-                "camera_motion": [
-                    0,
-                    0
-                ],
-                "camera_speed": 0,
-                "duration": [
-                    1.0,
-                    1.5
-                ],
-                "contrast_intensity": 1.085714285714287
-            }
-        ]
-    },
-    {
-        "trial_id": 14,
-        "initial_ball_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "initial_crosshair_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "initial_camera_position": {
-            "x": -4.393,
-            "y": 1.456,
-            "z": -0.303
-        },
-        "initial_camera_rotation": {
-            "x": 346.7,
-            "y": 133.996,
-            "z": 0.0
-        },
-        "camera_forward_velocity": 2,
-        "segments": [
-            {
-                "object_motion": [
-                    1,
-                    0
-                ],
-                "object_speed": 15.0,
-                "camera_motion": [
-                    0,
-                    0
-                ],
-                "camera_speed": 0,
-                "duration": [
-                    1.0,
-                    1.5
-                ],
-                "contrast_intensity": 1.171428571428574
-            }
-        ]
-    },
-    {
-        "trial_id": 15,
-        "initial_ball_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "initial_crosshair_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "initial_camera_position": {
-            "x": -4.393,
-            "y": 1.456,
-            "z": -0.303
-        },
-        "initial_camera_rotation": {
-            "x": 346.7,
-            "y": 133.996,
-            "z": 0.0
-        },
-        "camera_forward_velocity": 2,
-        "segments": [
-            {
-                "object_motion": [
-                    1,
-                    0
-                ],
-                "object_speed": 15.0,
-                "camera_motion": [
-                    0,
-                    0
-                ],
-                "camera_speed": 0,
-                "duration": [
-                    1.0,
-                    1.5
-                ],
-                "contrast_intensity": 1.3428571428571479
-            }
-        ]
-    },
-    {
-        "trial_id": 16,
-        "initial_ball_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "initial_crosshair_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "initial_camera_position": {
-            "x": -4.393,
-            "y": 1.456,
-            "z": -0.303
-        },
-        "initial_camera_rotation": {
-            "x": 346.7,
-            "y": 133.996,
-            "z": 0.0
-        },
-        "camera_forward_velocity": 2,
-        "segments": [
-            {
-                "object_motion": [
-                    -1,
-                    0
-                ],
-                "object_speed": 30.0,
-                "camera_motion": [
-                    0,
-                    0
-                ],
-                "camera_speed": 0,
-                "duration": [
-                    1.0,
-                    1.5
-                ],
-                "contrast_intensity": 1.0428571428571434
-            }
-        ]
-    },
-    {
-        "trial_id": 17,
-        "initial_ball_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "initial_crosshair_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "initial_camera_position": {
-            "x": -4.393,
-            "y": 1.456,
-            "z": -0.303
-        },
-        "initial_camera_rotation": {
-            "x": 346.7,
-            "y": 133.996,
-            "z": 0.0
-        },
-        "camera_forward_velocity": 4,
-        "segments": [
-            {
-                "object_motion": [
-                    -1,
-                    0
-                ],
-                "object_speed": 30.0,
-                "camera_motion": [
-                    0,
-                    0
-                ],
-                "camera_speed": 0,
-                "duration": [
-                    1.0,
-                    1.5
-                ],
-                "contrast_intensity": 1.085714285714287
-            }
-        ]
-    },
-    {
-        "trial_id": 18,
-        "initial_ball_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "initial_crosshair_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "initial_camera_position": {
-            "x": -4.393,
-            "y": 1.456,
-            "z": -0.303
-        },
-        "initial_camera_rotation": {
-            "x": 346.7,
-            "y": 133.996,
-            "z": 0.0
-        },
-        "camera_forward_velocity": 4,
-        "segments": [
-            {
-                "object_motion": [
-                    -1,
-                    0
-                ],
-                "object_speed": 30.0,
-                "camera_motion": [
-                    0,
-                    0
-                ],
-                "camera_speed": 0,
-                "duration": [
-                    1.0,
-                    1.5
-                ],
-                "contrast_intensity": 1.171428571428574
-            }
-        ]
-    },
-    {
-        "trial_id": 19,
-        "initial_ball_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "initial_crosshair_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "initial_camera_position": {
-            "x": -4.393,
-            "y": 1.456,
-            "z": -0.303
-        },
-        "initial_camera_rotation": {
-            "x": 346.7,
-            "y": 133.996,
+            "x": 332.7,
+            "y": 325.203,
             "z": 0.0
         },
         "camera_forward_velocity": 6,
         "segments": [
             {
                 "object_motion": [
-                    -1,
-                    0
-                ],
-                "object_speed": 30.0,
-                "camera_motion": [
-                    0,
-                    0
-                ],
-                "camera_speed": 0,
-                "duration": [
-                    1.0,
-                    1.5
-                ],
-                "contrast_intensity": 1.3428571428571479
-            }
-        ]
-    },
-    {
-        "trial_id": 20,
-        "initial_ball_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "initial_crosshair_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "initial_camera_position": {
-            "x": -4.393,
-            "y": 1.456,
-            "z": -0.303
-        },
-        "initial_camera_rotation": {
-            "x": 346.7,
-            "y": 133.996,
-            "z": 0.0
-        },
-        "camera_forward_velocity": 2,
-        "segments": [
-            {
-                "object_motion": [
                     1,
                     0
                 ],
@@ -856,130 +487,7 @@
                     1.0,
                     1.5
                 ],
-                "contrast_intensity": 1.0428571428571434
-            }
-        ]
-    },
-    {
-        "trial_id": 21,
-        "initial_ball_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "initial_crosshair_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "initial_camera_position": {
-            "x": -4.393,
-            "y": 1.456,
-            "z": -0.303
-        },
-        "initial_camera_rotation": {
-            "x": 346.7,
-            "y": 133.996,
-            "z": 0.0
-        },
-        "camera_forward_velocity": 4,
-        "segments": [
-            {
-                "object_motion": [
-                    1,
-                    0
-                ],
-                "object_speed": 30.0,
-                "camera_motion": [
-                    0,
-                    0
-                ],
-                "camera_speed": 0,
-                "duration": [
-                    1.0,
-                    1.5
-                ],
-                "contrast_intensity": 1.085714285714287
-            }
-        ]
-    },
-    {
-        "trial_id": 22,
-        "initial_ball_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "initial_crosshair_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "initial_camera_position": {
-            "x": -4.393,
-            "y": 1.456,
-            "z": -0.303
-        },
-        "initial_camera_rotation": {
-            "x": 346.7,
-            "y": 133.996,
-            "z": 0.0
-        },
-        "camera_forward_velocity": 4,
-        "segments": [
-            {
-                "object_motion": [
-                    1,
-                    0
-                ],
-                "object_speed": 30.0,
-                "camera_motion": [
-                    0,
-                    0
-                ],
-                "camera_speed": 0,
-                "duration": [
-                    1.0,
-                    1.5
-                ],
-                "contrast_intensity": 1.171428571428574
-            }
-        ]
-    },
-    {
-        "trial_id": 23,
-        "initial_ball_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "initial_crosshair_placement": {
-            "x": 0.5,
-            "y": 0.5
-        },
-        "initial_camera_position": {
-            "x": -4.393,
-            "y": 1.456,
-            "z": -0.303
-        },
-        "initial_camera_rotation": {
-            "x": 346.7,
-            "y": 133.996,
-            "z": 0.0
-        },
-        "camera_forward_velocity": 2,
-        "segments": [
-            {
-                "object_motion": [
-                    1,
-                    0
-                ],
-                "object_speed": 30.0,
-                "camera_motion": [
-                    0,
-                    0
-                ],
-                "camera_speed": 0,
-                "duration": [
-                    1.0,
-                    1.5
-                ],
-                "contrast_intensity": 1.3428571428571479
+                "contrast_intensity": 0.08
             }
         ]
     }

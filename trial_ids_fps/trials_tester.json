@@ -1,0 +1,29 @@
+[
+    {
+        "trial_id": 1,
+        "initial_crosshair_placement": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "camera_motion_log_path": "trial_1_camera.csv",
+        "target_locations": [
+            {
+                "x": 2,
+                "y": 2.74,
+                "z": -23.26
+            },
+            {
+                "x": 3,
+                "y": 2.74,
+                "z": -23.26
+            },
+            {
+                "x": 4,
+                "y": 2.74,
+                "z": -23.26
+            }
+        ],
+        "target_contrast_to_change": 2,
+        "contrast_level": -30.0
+    }
+]
